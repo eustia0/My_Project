@@ -1,91 +1,181 @@
-,tier,name,c_y,c,desc
+,tier,name,Component,Component2,Description
 0,a,Mascot Emblem,belt,spatula,The holder gains the Mascot Trait.
 1,a,Mascot Emblem,belt,spatula,The holder gains the Mascot Trait.
-2,b,Ox Force Emblem,chain,spatula,The holder gains the Ox Force Trait.
-3,b,Ox Force Emblem,chain,spatula,The holder gains the Ox Force Trait.
-4,b,Duelist Emblem,bow,spatula,The holder gains the Duelist Trait.
-5,b,Duelist Emblem,bow,spatula,The holder gains the Duelist Trait.
-6,b,Heart Emblem,tear,spatula,The holder gains the Heart Trait.
-7,b,Heart Emblem,tear,spatula,The holder gains the Heart Trait.
-8,s,Tactician's Crown,spatula,spatula,Your team gains +1 maximum team size.
-9,s,Tactician's Crown,spatula,spatula,Your team gains +1 maximum team size.
-10,s,Anima Squad Emblem,rod,spatula,The holder gains the Anima Squad Trait.
-11,s,Anima Squad Emblem,rod,spatula,The holder gains the Anima Squad Trait.
-12,a,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
-13,a,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
-14,d,A.D.M.I.N. Emblem,cloak,spatula,The holder gains the A.D.M.I.N. Trait.
-15,d,A.D.M.I.N. Emblem,cloak,spatula,The holder gains the A.D.M.I.N. Trait.
-16,a,Guardbreaker,belt,glove,After damaging a shielded enemy
-17,a,Guardbreaker,belt,glove,After damaging a shielded enemy
-18,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% Mana Reaves enemies.Mana Reave: increase maximum Mana until the next cast
-19,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% Mana Reaves enemies.Mana Reave: increase maximum Mana until the next cast
-20,b,Last Whisper,bow,glove,Any physical damage dealt 50% Sunders the target for 5 seconds. This effect does not stack.Sunder: reduce Armor
-21,b,Last Whisper,bow,glove,Any physical damage dealt 50% Sunders the target for 5 seconds. This effect does not stack.Sunder: reduce Armor
-22,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% Omnivamp.Each round
-23,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% Omnivamp.Each round
-24,b,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
-25,b,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
-26,b,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
-27,b,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
-28,d,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
-29,d,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
-30,c,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
-31,c,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
-32,b,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
-33,b,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
-34,b,Warmog's Armor,belt,belt,Tough as teak
-35,b,Warmog's Armor,belt,belt,Tough as teak
-36,b,Sunfire Cape,chain,belt,Every 2 seconds
-37,b,Sunfire Cape,chain,belt,Every 2 seconds
-38,s,Zz'Rot Portal,bow,belt,Combat start: Taunt.On death
-39,s,Zz'Rot Portal,bow,belt,Combat start: Taunt.On death
-40,b,Redemption,tear,belt,Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 25% less multi-target damage for 5 seconds (damage reduction does not stack).
-41,b,Redemption,tear,belt,Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 25% less multi-target damage for 5 seconds (damage reduction does not stack).
-42,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% Burns and 33% Wounds enemies for 10 seconds.Burn: deals some of the target's maximum Health as true damageWound: reduces healing received
-43,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% Burns and 33% Wounds enemies for 10 seconds.Burn: deals some of the target's maximum Health as true damageWound: reduces healing received
-44,s,Zeke's Herald,sword,belt,Combat start: Grant AS 20% Attack Speed to the holder and allies within 1 hex in the same row.​​
-45,s,Zeke's Herald,sword,belt,Combat start: Grant AS 20% Attack Speed to the holder and allies within 1 hex in the same row.​​
-46,s,Zephyr,cloak,belt,Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds. 
-47,s,Zephyr,cloak,belt,Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds. 
-48,b,Bramble Vest,chain,chain,Negates 0.75% bonus damage from incoming critical strikes. When struck by an attack
-49,b,Bramble Vest,chain,chain,Negates 0.75% bonus damage from incoming critical strikes. When struck by an attack
-50,b,Titan's Resolve,bow,chain,Grants AD 0.019999999552965164% Attack Damage and AP 0.019999999552965164 Ability Power when attacking or taking damage
-51,b,Titan's Resolve,bow,chain,Grants AD 0.019999999552965164% Attack Damage and AP 0.019999999552965164 Ability Power when attacking or taking damage
-52,s,Protector's Vow,tear,chain,Once per combat: At 40% Health
-53,s,Protector's Vow,tear,chain,Once per combat: At 40% Health
-54,s,Locket of the Iron Solari,rod,chain,Combat start: Shields the holder and allies within 2 hexes in the same row for 300.0/350.0/400 ★ damage for 15 seconds.​​
-55,s,Locket of the Iron Solari,rod,chain,Combat start: Shields the holder and allies within 2 hexes in the same row for 300.0/350.0/400 ★ damage for 15 seconds.​​
-56,a,Edge of Night,sword,chain,Once per combat: At 60% Health
-57,a,Edge of Night,sword,chain,Once per combat: At 60% Health
-58,b,Gargoyle Stoneplate,chain,cloak,Grants Armor 15 Armor and MR 15 Magic Resist for each enemy targeting the holder.
-59,b,Gargoyle Stoneplate,chain,cloak,Grants Armor 15 Armor and MR 15 Magic Resist for each enemy targeting the holder.
-60,b,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
-61,b,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
-62,s,Chalice of Power,tear,cloak,Combat start: Grant AP @ChaliceAP@ Ability Power to the holder and allies within 1 hex in the same row.​​
-63,s,Chalice of Power,tear,cloak,Combat start: Grant AP @ChaliceAP@ Ability Power to the holder and allies within 1 hex in the same row.​​
-64,s,Ionic Spark,rod,cloak,50% Shred enemies within 2 hexes. When enemies cast an Ability
-65,s,Ionic Spark,rod,cloak,50% Shred enemies within 2 hexes. When enemies cast an Ability
-66,c,Bloodthirster,sword,cloak,Grant 20% Omnivamp.Once per combat at 40% Health
-67,c,Bloodthirster,sword,cloak,Grant 20% Omnivamp.Once per combat at 40% Health
-68,b,Dragon's Claw,cloak,cloak,Every @HealthRegenInterval@ seconds
-69,b,Dragon's Claw,cloak,cloak,Every @HealthRegenInterval@ seconds
-70,b,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
-71,b,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
-72,b,Blue Buff,tear,tear,Abilities cost Mana @ManaReduction@ less Mana to cast. If the holder gets at least 1 takedown within @TakedownTimer@ seconds of casting
-73,b,Blue Buff,tear,tear,Abilities cost Mana @ManaReduction@ less Mana to cast. If the holder gets at least 1 takedown within @TakedownTimer@ seconds of casting
-74,b,Archangel's Staff,rod,tear,Combat start: Grant AP 20 Ability Power every 5 seconds.
-75,b,Archangel's Staff,rod,tear,Combat start: Grant AP 20 Ability Power every 5 seconds.
-76,b,Spear of Shojin,sword,tear,Every 3rd attack restores Mana 20 additional Mana.
-77,b,Spear of Shojin,sword,tear,Every 3rd attack restores Mana 20 additional Mana.
-78,b,Rapid Firecannon,bow,bow,Grant Range 1 bonus Attack Range and your attacks cannot miss.
-79,b,Rapid Firecannon,bow,bow,Grant Range 1 bonus Attack Range and your attacks cannot miss.
-80,b,Giant Slayer,sword,bow,Abilities and attacks deal 25% more damage to enemies with more than 1600 maximum Health.
-81,b,Giant Slayer,sword,bow,Abilities and attacks deal 25% more damage to enemies with more than 1600 maximum Health.
-82,d,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
-83,d,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
-84,a,Rabadon's Deathcap,rod,rod,This humble hat can help you make
-85,a,Rabadon's Deathcap,rod,rod,This humble hat can help you make
-86,b,Hextech Gunblade,sword,rod,Grant 22% Omnivamp
-87,b,Hextech Gunblade,sword,rod,Grant 22% Omnivamp
-88,b,Deathblade,sword,sword,Perfect peace and calm for the holder - and all who face it.
-89,b,Deathblade,sword,sword,Perfect peace and calm for the holder - and all who face it.
+2,a,Mascot Emblem,belt,spatula,The holder gains the Mascot Trait.
+3,a,Mascot Emblem,belt,spatula,The holder gains the Mascot Trait.
+4,b,Ox Force Emblem,chain,spatula,The holder gains the Ox Force Trait.
+5,b,Ox Force Emblem,chain,spatula,The holder gains the Ox Force Trait.
+6,b,Ox Force Emblem,chain,spatula,The holder gains the Ox Force Trait.
+7,b,Ox Force Emblem,chain,spatula,The holder gains the Ox Force Trait.
+8,b,Duelist Emblem,bow,spatula,The holder gains the Duelist Trait.
+9,b,Duelist Emblem,bow,spatula,The holder gains the Duelist Trait.
+10,b,Duelist Emblem,bow,spatula,The holder gains the Duelist Trait.
+11,b,Duelist Emblem,bow,spatula,The holder gains the Duelist Trait.
+12,b,Heart Emblem,tear,spatula,The holder gains the Heart Trait.
+13,b,Heart Emblem,tear,spatula,The holder gains the Heart Trait.
+14,b,Heart Emblem,tear,spatula,The holder gains the Heart Trait.
+15,b,Heart Emblem,tear,spatula,The holder gains the Heart Trait.
+16,s,Tactician's Crown,spatula,spatula,Your team gains +1 maximum team size.
+17,s,Tactician's Crown,spatula,spatula,Your team gains +1 maximum team size.
+18,s,Tactician's Crown,spatula,spatula,Your team gains +1 maximum team size.
+19,s,Tactician's Crown,spatula,spatula,Your team gains +1 maximum team size.
+20,s,Anima Squad Emblem,rod,spatula,The holder gains the Anima Squad Trait.
+21,s,Anima Squad Emblem,rod,spatula,The holder gains the Anima Squad Trait.
+22,s,Anima Squad Emblem,rod,spatula,The holder gains the Anima Squad Trait.
+23,s,Anima Squad Emblem,rod,spatula,The holder gains the Anima Squad Trait.
+24,a,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
+25,a,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
+26,a,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
+27,a,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
+28,d,A.D.M.I.N. Emblem,cloak,spatula,The holder gains the A.D.M.I.N. Trait.
+29,d,A.D.M.I.N. Emblem,cloak,spatula,The holder gains the A.D.M.I.N. Trait.
+30,d,A.D.M.I.N. Emblem,cloak,spatula,The holder gains the A.D.M.I.N. Trait.
+31,d,A.D.M.I.N. Emblem,cloak,spatula,The holder gains the A.D.M.I.N. Trait.
+32,a,Guardbreaker,belt,glove,After damaging a shielded enemy
+33,a,Guardbreaker,belt,glove,After damaging a shielded enemy
+34,a,Guardbreaker,belt,glove,After damaging a shielded enemy
+35,a,Guardbreaker,belt,glove,After damaging a shielded enemy
+36,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% Mana Reaves enemies.Mana Reave: increase maximum Mana until the next cast
+37,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% Mana Reaves enemies.Mana Reave: increase maximum Mana until the next cast
+38,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% Mana Reaves enemies.Mana Reave: increase maximum Mana until the next cast
+39,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% Mana Reaves enemies.Mana Reave: increase maximum Mana until the next cast
+40,b,Last Whisper,bow,glove,Any physical damage dealt 50% Sunders the target for 5 seconds. This effect does not stack.Sunder: reduce Armor
+41,b,Last Whisper,bow,glove,Any physical damage dealt 50% Sunders the target for 5 seconds. This effect does not stack.Sunder: reduce Armor
+42,b,Last Whisper,bow,glove,Any physical damage dealt 50% Sunders the target for 5 seconds. This effect does not stack.Sunder: reduce Armor
+43,b,Last Whisper,bow,glove,Any physical damage dealt 50% Sunders the target for 5 seconds. This effect does not stack.Sunder: reduce Armor
+44,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% Omnivamp.Each round
+45,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% Omnivamp.Each round
+46,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% Omnivamp.Each round
+47,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% Omnivamp.Each round
+48,b,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
+49,b,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
+50,b,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
+51,b,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
+52,b,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
+53,b,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
+54,b,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
+55,b,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
+56,d,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
+57,d,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
+58,d,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
+59,d,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
+60,c,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
+61,c,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
+62,c,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
+63,c,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
+64,b,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
+65,b,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
+66,b,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
+67,b,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
+68,b,Warmog's Armor,belt,belt,Tough as teak
+69,b,Warmog's Armor,belt,belt,Tough as teak
+70,b,Warmog's Armor,belt,belt,Tough as teak
+71,b,Warmog's Armor,belt,belt,Tough as teak
+72,b,Sunfire Cape,chain,belt,Every 2 seconds
+73,b,Sunfire Cape,chain,belt,Every 2 seconds
+74,b,Sunfire Cape,chain,belt,Every 2 seconds
+75,b,Sunfire Cape,chain,belt,Every 2 seconds
+76,s,Zz'Rot Portal,bow,belt,Combat start: Taunt.On death
+77,s,Zz'Rot Portal,bow,belt,Combat start: Taunt.On death
+78,s,Zz'Rot Portal,bow,belt,Combat start: Taunt.On death
+79,s,Zz'Rot Portal,bow,belt,Combat start: Taunt.On death
+80,b,Redemption,tear,belt,Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 25% less multi-target damage for 5 seconds (damage reduction does not stack).
+81,b,Redemption,tear,belt,Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 25% less multi-target damage for 5 seconds (damage reduction does not stack).
+82,b,Redemption,tear,belt,Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 25% less multi-target damage for 5 seconds (damage reduction does not stack).
+83,b,Redemption,tear,belt,Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 25% less multi-target damage for 5 seconds (damage reduction does not stack).
+84,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% Burns and 33% Wounds enemies for 10 seconds.Burn: deals some of the target's maximum Health as true damageWound: reduces healing received
+85,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% Burns and 33% Wounds enemies for 10 seconds.Burn: deals some of the target's maximum Health as true damageWound: reduces healing received
+86,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% Burns and 33% Wounds enemies for 10 seconds.Burn: deals some of the target's maximum Health as true damageWound: reduces healing received
+87,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% Burns and 33% Wounds enemies for 10 seconds.Burn: deals some of the target's maximum Health as true damageWound: reduces healing received
+88,s,Zeke's Herald,sword,belt,Combat start: Grant AS 20% Attack Speed to the holder and allies within 1 hex in the same row.​​
+89,s,Zeke's Herald,sword,belt,Combat start: Grant AS 20% Attack Speed to the holder and allies within 1 hex in the same row.​​
+90,s,Zeke's Herald,sword,belt,Combat start: Grant AS 20% Attack Speed to the holder and allies within 1 hex in the same row.​​
+91,s,Zeke's Herald,sword,belt,Combat start: Grant AS 20% Attack Speed to the holder and allies within 1 hex in the same row.​​
+92,s,Zephyr,cloak,belt,Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds. 
+93,s,Zephyr,cloak,belt,Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds. 
+94,s,Zephyr,cloak,belt,Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds. 
+95,s,Zephyr,cloak,belt,Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds. 
+96,b,Bramble Vest,chain,chain,Negates 0.75% bonus damage from incoming critical strikes. When struck by an attack
+97,b,Bramble Vest,chain,chain,Negates 0.75% bonus damage from incoming critical strikes. When struck by an attack
+98,b,Bramble Vest,chain,chain,Negates 0.75% bonus damage from incoming critical strikes. When struck by an attack
+99,b,Bramble Vest,chain,chain,Negates 0.75% bonus damage from incoming critical strikes. When struck by an attack
+100,b,Titan's Resolve,bow,chain,Grants AD 0.019999999552965164% Attack Damage and AP 0.019999999552965164 Ability Power when attacking or taking damage
+101,b,Titan's Resolve,bow,chain,Grants AD 0.019999999552965164% Attack Damage and AP 0.019999999552965164 Ability Power when attacking or taking damage
+102,b,Titan's Resolve,bow,chain,Grants AD 0.019999999552965164% Attack Damage and AP 0.019999999552965164 Ability Power when attacking or taking damage
+103,b,Titan's Resolve,bow,chain,Grants AD 0.019999999552965164% Attack Damage and AP 0.019999999552965164 Ability Power when attacking or taking damage
+104,s,Protector's Vow,tear,chain,Once per combat: At 40% Health
+105,s,Protector's Vow,tear,chain,Once per combat: At 40% Health
+106,s,Protector's Vow,tear,chain,Once per combat: At 40% Health
+107,s,Protector's Vow,tear,chain,Once per combat: At 40% Health
+108,s,Locket of the Iron Solari,rod,chain,Combat start: Shields the holder and allies within 2 hexes in the same row for 300.0/350.0/400 ★ damage for 15 seconds.​​
+109,s,Locket of the Iron Solari,rod,chain,Combat start: Shields the holder and allies within 2 hexes in the same row for 300.0/350.0/400 ★ damage for 15 seconds.​​
+110,s,Locket of the Iron Solari,rod,chain,Combat start: Shields the holder and allies within 2 hexes in the same row for 300.0/350.0/400 ★ damage for 15 seconds.​​
+111,s,Locket of the Iron Solari,rod,chain,Combat start: Shields the holder and allies within 2 hexes in the same row for 300.0/350.0/400 ★ damage for 15 seconds.​​
+112,a,Edge of Night,sword,chain,Once per combat: At 60% Health
+113,a,Edge of Night,sword,chain,Once per combat: At 60% Health
+114,a,Edge of Night,sword,chain,Once per combat: At 60% Health
+115,a,Edge of Night,sword,chain,Once per combat: At 60% Health
+116,b,Gargoyle Stoneplate,chain,cloak,Grants Armor 15 Armor and MR 15 Magic Resist for each enemy targeting the holder.
+117,b,Gargoyle Stoneplate,chain,cloak,Grants Armor 15 Armor and MR 15 Magic Resist for each enemy targeting the holder.
+118,b,Gargoyle Stoneplate,chain,cloak,Grants Armor 15 Armor and MR 15 Magic Resist for each enemy targeting the holder.
+119,b,Gargoyle Stoneplate,chain,cloak,Grants Armor 15 Armor and MR 15 Magic Resist for each enemy targeting the holder.
+120,b,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
+121,b,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
+122,b,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
+123,b,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
+124,s,Chalice of Power,tear,cloak,Combat start: Grant AP @ChaliceAP@ Ability Power to the holder and allies within 1 hex in the same row.​​
+125,s,Chalice of Power,tear,cloak,Combat start: Grant AP @ChaliceAP@ Ability Power to the holder and allies within 1 hex in the same row.​​
+126,s,Chalice of Power,tear,cloak,Combat start: Grant AP @ChaliceAP@ Ability Power to the holder and allies within 1 hex in the same row.​​
+127,s,Chalice of Power,tear,cloak,Combat start: Grant AP @ChaliceAP@ Ability Power to the holder and allies within 1 hex in the same row.​​
+128,s,Ionic Spark,rod,cloak,50% Shred enemies within 2 hexes. When enemies cast an Ability
+129,s,Ionic Spark,rod,cloak,50% Shred enemies within 2 hexes. When enemies cast an Ability
+130,s,Ionic Spark,rod,cloak,50% Shred enemies within 2 hexes. When enemies cast an Ability
+131,s,Ionic Spark,rod,cloak,50% Shred enemies within 2 hexes. When enemies cast an Ability
+132,c,Bloodthirster,sword,cloak,Grant 20% Omnivamp.Once per combat at 40% Health
+133,c,Bloodthirster,sword,cloak,Grant 20% Omnivamp.Once per combat at 40% Health
+134,c,Bloodthirster,sword,cloak,Grant 20% Omnivamp.Once per combat at 40% Health
+135,c,Bloodthirster,sword,cloak,Grant 20% Omnivamp.Once per combat at 40% Health
+136,b,Dragon's Claw,cloak,cloak,Every @HealthRegenInterval@ seconds
+137,b,Dragon's Claw,cloak,cloak,Every @HealthRegenInterval@ seconds
+138,b,Dragon's Claw,cloak,cloak,Every @HealthRegenInterval@ seconds
+139,b,Dragon's Claw,cloak,cloak,Every @HealthRegenInterval@ seconds
+140,b,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
+141,b,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
+142,b,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
+143,b,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
+144,b,Blue Buff,tear,tear,Abilities cost Mana @ManaReduction@ less Mana to cast. If the holder gets at least 1 takedown within @TakedownTimer@ seconds of casting
+145,b,Blue Buff,tear,tear,Abilities cost Mana @ManaReduction@ less Mana to cast. If the holder gets at least 1 takedown within @TakedownTimer@ seconds of casting
+146,b,Blue Buff,tear,tear,Abilities cost Mana @ManaReduction@ less Mana to cast. If the holder gets at least 1 takedown within @TakedownTimer@ seconds of casting
+147,b,Blue Buff,tear,tear,Abilities cost Mana @ManaReduction@ less Mana to cast. If the holder gets at least 1 takedown within @TakedownTimer@ seconds of casting
+148,b,Archangel's Staff,rod,tear,Combat start: Grant AP 20 Ability Power every 5 seconds.
+149,b,Archangel's Staff,rod,tear,Combat start: Grant AP 20 Ability Power every 5 seconds.
+150,b,Archangel's Staff,rod,tear,Combat start: Grant AP 20 Ability Power every 5 seconds.
+151,b,Archangel's Staff,rod,tear,Combat start: Grant AP 20 Ability Power every 5 seconds.
+152,b,Spear of Shojin,sword,tear,Every 3rd attack restores Mana 20 additional Mana.
+153,b,Spear of Shojin,sword,tear,Every 3rd attack restores Mana 20 additional Mana.
+154,b,Spear of Shojin,sword,tear,Every 3rd attack restores Mana 20 additional Mana.
+155,b,Spear of Shojin,sword,tear,Every 3rd attack restores Mana 20 additional Mana.
+156,b,Rapid Firecannon,bow,bow,Grant Range 1 bonus Attack Range and your attacks cannot miss.
+157,b,Rapid Firecannon,bow,bow,Grant Range 1 bonus Attack Range and your attacks cannot miss.
+158,b,Rapid Firecannon,bow,bow,Grant Range 1 bonus Attack Range and your attacks cannot miss.
+159,b,Rapid Firecannon,bow,bow,Grant Range 1 bonus Attack Range and your attacks cannot miss.
+160,b,Giant Slayer,sword,bow,Abilities and attacks deal 25% more damage to enemies with more than 1600 maximum Health.
+161,b,Giant Slayer,sword,bow,Abilities and attacks deal 25% more damage to enemies with more than 1600 maximum Health.
+162,b,Giant Slayer,sword,bow,Abilities and attacks deal 25% more damage to enemies with more than 1600 maximum Health.
+163,b,Giant Slayer,sword,bow,Abilities and attacks deal 25% more damage to enemies with more than 1600 maximum Health.
+164,d,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
+165,d,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
+166,d,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
+167,d,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
+168,a,Rabadon's Deathcap,rod,rod,This humble hat can help you make
+169,a,Rabadon's Deathcap,rod,rod,This humble hat can help you make
+170,a,Rabadon's Deathcap,rod,rod,This humble hat can help you make
+171,a,Rabadon's Deathcap,rod,rod,This humble hat can help you make
+172,b,Hextech Gunblade,sword,rod,Grant 22% Omnivamp
+173,b,Hextech Gunblade,sword,rod,Grant 22% Omnivamp
+174,b,Hextech Gunblade,sword,rod,Grant 22% Omnivamp
+175,b,Hextech Gunblade,sword,rod,Grant 22% Omnivamp
+176,b,Deathblade,sword,sword,Perfect peace and calm for the holder - and all who face it.
+177,b,Deathblade,sword,sword,Perfect peace and calm for the holder - and all who face it.
+178,b,Deathblade,sword,sword,Perfect peace and calm for the holder - and all who face it.
+179,b,Deathblade,sword,sword,Perfect peace and calm for the holder - and all who face it.
