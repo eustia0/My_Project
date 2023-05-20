@@ -11,38 +11,38 @@
 9,s,Tactician's Crown,spatula,spatula,Your team gains +1 maximum team size.
 10,s,Anima Squad Emblem,rod,spatula,The holder gains the Anima Squad Trait.
 11,s,Anima Squad Emblem,rod,spatula,The holder gains the Anima Squad Trait.
-12,b,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
-13,b,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
+12,a,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
+13,a,InfiniTeam Emblem,sword,spatula,The holder gains the InfiniTeam Trait.
 14,d,A.D.M.I.N. Emblem,cloak,spatula,The holder gains the A.D.M.I.N. Trait.
 15,d,A.D.M.I.N. Emblem,cloak,spatula,The holder gains the A.D.M.I.N. Trait.
-16,s,Guardbreaker,belt,glove,After damaging a shielded enemy
-17,s,Guardbreaker,belt,glove,After damaging a shielded enemy
-18,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% &lt;TFTKeyword&gt;Mana Reaves&lt;/TFTKeyword&gt; enemies.&lt;tftbold&gt;Mana Reave&lt;/tftbold&gt;: increase maximum Mana until the next cast
-19,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% &lt;TFTKeyword&gt;Mana Reaves&lt;/TFTKeyword&gt; enemies.&lt;tftbold&gt;Mana Reave&lt;/tftbold&gt;: increase maximum Mana until the next cast
-20,b,Last Whisper,bow,glove,Any physical damage dealt 50% &lt;TFTKeyword&gt;Sunders&lt;/TFTKeyword&gt; the target for 5 seconds. This effect does not stack.&lt;tftbold&gt;Sunder&lt;/tftbold&gt;: reduce Armor
-21,b,Last Whisper,bow,glove,Any physical damage dealt 50% &lt;TFTKeyword&gt;Sunders&lt;/TFTKeyword&gt; the target for 5 seconds. This effect does not stack.&lt;tftbold&gt;Sunder&lt;/tftbold&gt;: reduce Armor
-22,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% &lt;TFTKeyword&gt;Omnivamp&lt;/TFTKeyword&gt;.Each round
-23,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% &lt;TFTKeyword&gt;Omnivamp&lt;/TFTKeyword&gt;.Each round
-24,d,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
-25,d,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
-26,a,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
-27,a,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
-28,c,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
-29,c,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
-30,d,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
-31,d,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
-32,a,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
-33,a,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
+16,a,Guardbreaker,belt,glove,After damaging a shielded enemy
+17,a,Guardbreaker,belt,glove,After damaging a shielded enemy
+18,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% Mana Reaves enemies.Mana Reave: increase maximum Mana until the next cast
+19,s,Shroud of Stillness,chain,glove,Combat start: Shoot a beam that 35% Mana Reaves enemies.Mana Reave: increase maximum Mana until the next cast
+20,b,Last Whisper,bow,glove,Any physical damage dealt 50% Sunders the target for 5 seconds. This effect does not stack.Sunder: reduce Armor
+21,b,Last Whisper,bow,glove,Any physical damage dealt 50% Sunders the target for 5 seconds. This effect does not stack.Sunder: reduce Armor
+22,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% Omnivamp.Each round
+23,b,Hand Of Justice,tear,glove,Grant 2 effects: - AD +@AD@% Attack Damage and AP +@SP@ Ability Power. - 15% Omnivamp.Each round
+24,b,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
+25,b,Renegade Emblem,spatula,glove,The holder gains the Renegade Trait.
+26,b,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
+27,b,Thief's Gloves,glove,glove,Each round: Equip 2 random items.
+28,d,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
+29,d,Jeweled Gauntlet,rod,glove,Damage from an Ability can critically strike.
+30,c,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
+31,c,Infinity Edge,sword,glove,Damage from an Ability can critically strike.
+32,b,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
+33,b,Quicksilver,cloak,glove,Combat start: Grant immunity to crowd control for 18 seconds.
 34,b,Warmog's Armor,belt,belt,Tough as teak
 35,b,Warmog's Armor,belt,belt,Tough as teak
 36,b,Sunfire Cape,chain,belt,Every 2 seconds
 37,b,Sunfire Cape,chain,belt,Every 2 seconds
-38,s,Zz'Rot Portal,bow,belt,Combat start: &lt;TFTKeyword&gt;Taunt&lt;/TFTKeyword&gt;.On death
-39,s,Zz'Rot Portal,bow,belt,Combat start: &lt;TFTKeyword&gt;Taunt&lt;/TFTKeyword&gt;.On death
+38,s,Zz'Rot Portal,bow,belt,Combat start: Taunt.On death
+39,s,Zz'Rot Portal,bow,belt,Combat start: Taunt.On death
 40,b,Redemption,tear,belt,Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 25% less multi-target damage for 5 seconds (damage reduction does not stack).
 41,b,Redemption,tear,belt,Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 25% less multi-target damage for 5 seconds (damage reduction does not stack).
-42,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% &lt;TFTKeyword&gt;Burns&lt;/TFTKeyword&gt; and 33% &lt;TFTKeyword&gt;Wounds&lt;/TFTKeyword&gt; enemies for 10 seconds.&lt;tftbold&gt;Burn&lt;/tftbold&gt;: deals some of the target's maximum Health as true damage&lt;tftbold&gt;Wound&lt;/tftbold&gt;: reduces healing received
-43,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% &lt;TFTKeyword&gt;Burns&lt;/TFTKeyword&gt; and 33% &lt;TFTKeyword&gt;Wounds&lt;/TFTKeyword&gt; enemies for 10 seconds.&lt;tftbold&gt;Burn&lt;/tftbold&gt;: deals some of the target's maximum Health as true damage&lt;tftbold&gt;Wound&lt;/tftbold&gt;: reduces healing received
+42,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% Burns and 33% Wounds enemies for 10 seconds.Burn: deals some of the target's maximum Health as true damageWound: reduces healing received
+43,s,Morellonomicon,rod,belt,Magic or true damage from the holder's Ability 10% Burns and 33% Wounds enemies for 10 seconds.Burn: deals some of the target's maximum Health as true damageWound: reduces healing received
 44,s,Zeke's Herald,sword,belt,Combat start: Grant AS 20% Attack Speed to the holder and allies within 1 hex in the same row.​​
 45,s,Zeke's Herald,sword,belt,Combat start: Grant AS 20% Attack Speed to the holder and allies within 1 hex in the same row.​​
 46,s,Zephyr,cloak,belt,Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds. 
@@ -59,18 +59,18 @@
 57,a,Edge of Night,sword,chain,Once per combat: At 60% Health
 58,b,Gargoyle Stoneplate,chain,cloak,Grants Armor 15 Armor and MR 15 Magic Resist for each enemy targeting the holder.
 59,b,Gargoyle Stoneplate,chain,cloak,Grants Armor 15 Armor and MR 15 Magic Resist for each enemy targeting the holder.
-60,a,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
-61,a,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
+60,b,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
+61,b,Runaan's Hurricane,bow,cloak,Attacks fire a bolt at a nearby enemy
 62,s,Chalice of Power,tear,cloak,Combat start: Grant AP @ChaliceAP@ Ability Power to the holder and allies within 1 hex in the same row.​​
 63,s,Chalice of Power,tear,cloak,Combat start: Grant AP @ChaliceAP@ Ability Power to the holder and allies within 1 hex in the same row.​​
-64,a,Ionic Spark,rod,cloak,50% &lt;TFTKeyword&gt;Shred&lt;/TFTKeyword&gt; enemies within 2 hexes. When enemies cast an Ability
-65,a,Ionic Spark,rod,cloak,50% &lt;TFTKeyword&gt;Shred&lt;/TFTKeyword&gt; enemies within 2 hexes. When enemies cast an Ability
-66,c,Bloodthirster,sword,cloak,Grant 20% &lt;TFTKeyword&gt;Omnivamp&lt;/TFTKeyword&gt;.Once per combat at 40% Health
-67,c,Bloodthirster,sword,cloak,Grant 20% &lt;TFTKeyword&gt;Omnivamp&lt;/TFTKeyword&gt;.Once per combat at 40% Health
+64,s,Ionic Spark,rod,cloak,50% Shred enemies within 2 hexes. When enemies cast an Ability
+65,s,Ionic Spark,rod,cloak,50% Shred enemies within 2 hexes. When enemies cast an Ability
+66,c,Bloodthirster,sword,cloak,Grant 20% Omnivamp.Once per combat at 40% Health
+67,c,Bloodthirster,sword,cloak,Grant 20% Omnivamp.Once per combat at 40% Health
 68,b,Dragon's Claw,cloak,cloak,Every @HealthRegenInterval@ seconds
 69,b,Dragon's Claw,cloak,cloak,Every @HealthRegenInterval@ seconds
-70,a,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
-71,a,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
+70,b,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
+71,b,Statikk Shiv,bow,tear,Every 3rd attack unleashes chain lightning that bounces to 4 enemies
 72,b,Blue Buff,tear,tear,Abilities cost Mana @ManaReduction@ less Mana to cast. If the holder gets at least 1 takedown within @TakedownTimer@ seconds of casting
 73,b,Blue Buff,tear,tear,Abilities cost Mana @ManaReduction@ less Mana to cast. If the holder gets at least 1 takedown within @TakedownTimer@ seconds of casting
 74,b,Archangel's Staff,rod,tear,Combat start: Grant AP 20 Ability Power every 5 seconds.
@@ -81,11 +81,11 @@
 79,b,Rapid Firecannon,bow,bow,Grant Range 1 bonus Attack Range and your attacks cannot miss.
 80,b,Giant Slayer,sword,bow,Abilities and attacks deal 25% more damage to enemies with more than 1600 maximum Health.
 81,b,Giant Slayer,sword,bow,Abilities and attacks deal 25% more damage to enemies with more than 1600 maximum Health.
-82,c,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
-83,c,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
+82,d,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
+83,d,Guinsoo's Rageblade,bow,rod,Attacks grant AS 5% bonus Attack Speed. This effect stacks.
 84,a,Rabadon's Deathcap,rod,rod,This humble hat can help you make
 85,a,Rabadon's Deathcap,rod,rod,This humble hat can help you make
-86,b,Hextech Gunblade,sword,rod,Grant 22% &lt;TFTKeyword&gt;Omnivamp&lt;/TFTKeyword&gt;
-87,b,Hextech Gunblade,sword,rod,Grant 22% &lt;TFTKeyword&gt;Omnivamp&lt;/TFTKeyword&gt;
+86,b,Hextech Gunblade,sword,rod,Grant 22% Omnivamp
+87,b,Hextech Gunblade,sword,rod,Grant 22% Omnivamp
 88,b,Deathblade,sword,sword,Perfect peace and calm for the holder - and all who face it.
 89,b,Deathblade,sword,sword,Perfect peace and calm for the holder - and all who face it.
