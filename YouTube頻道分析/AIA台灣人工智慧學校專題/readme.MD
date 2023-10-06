@@ -6,6 +6,9 @@
 • 使用爬蟲取得每部影片縮圖與影片介紹
 • 使用CNN分析縮圖的吸引力
 
+完整檔案：
+https://drive.google.com/drive/folders/1HDx70d4Qvz_nche8JJeC68b2m1HvgIIl?usp=drive_link
+
 過去報告用的逐字稿:
 https://docs.google.com/document/d/1-t11S27yR1FXE-iC5itMMt2oB-bRgUm45sLOoWjn10o/edit?usp=sharing
 
