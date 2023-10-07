@@ -21,7 +21,7 @@ th {
 tr:nth-child(even) {background-color: #f2f2f2;}
 </style>';
 
-$file = fopen("D:\py\often\\price2.csv", "r");
+$file = fopen("E:\download\interview\統計檔案\爬蟲：每日紀錄商品價格\\price2.csv", "r");
 
 // Collect all unique dates
 $dates = [];
@@ -40,7 +40,7 @@ foreach ($dates as $date) {
 }
 echo "</select>";
 
-$file = fopen("D:\py\often\\price2.csv", "r");
+$file = fopen("E:\download\interview\統計檔案\爬蟲：每日紀錄商品價格\\price2.csv", "r");
 echo "<table>";
 
 // Process header
