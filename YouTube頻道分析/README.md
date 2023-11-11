@@ -10,3 +10,20 @@ https://www.youtube.com/@nindou2/videos
 2. 找出成效差的影片，分析這些影片是哪裡不受歡迎，並視情況設為不公開，以免讓頻道曝光次數減少(平均觀看比例低，因為觀看這部片而取消訂閱的的比例高等等)
 
 並提供給使用者完整的分析檔案(主要使用Python)、易理解的簡報檔、還有方便後續自行做簡易統計的Excel檔，讓使用者更了解頻道的受眾與YouTube演算法。
+
+-------------------------
+
+YouTube Channel:
+https://www.youtube.com/@nindou2/videos
+
+This project was written when I previously attempted to analyze YouTube channels as a freelance project. Recently, I have been frequently making YouTube videos and noticed that YouTube provides a wealth of backend data for users to review. However, I had never heard of anyone focusing on analyzing this aspect.
+
+I believe this could be developed into a business model. By leveraging YouTube's backend data, combined with web scraping and existing online data, users could gain a better understanding of their video performance and audience, thereby increasing their revenue.
+
+The specific approach involves analyzing practical information that is difficult to discern from backend data alone, and based on the analysis, providing recommended directions for channel development, such as:
+
+• Comparing the effectiveness of different video lengths in terms of average watch time percentage.
+
+• Identifying underperforming videos, analyzing why these videos are unpopular, and considering setting them to private to avoid reducing channel exposure (for example, videos with a low average watch time percentage or a high unsubscribe rate after viewing).
+
+Additionally, I would provide users with a comprehensive analysis file (primarily using Python), an easy-to-understand presentation file, and an Excel file for simple statistics, to help them better understand their audience and YouTube's algorithm.
