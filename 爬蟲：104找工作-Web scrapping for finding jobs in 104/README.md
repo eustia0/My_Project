@@ -7,7 +7,7 @@ https://ithelp.ithome.com.tw/articles/10321898
 
 • 職缺網址連結
 
-• 可篩選不要應徵的公司與職位
+• 可篩選不要應徵的公司與職缺關鍵字
 
 • 同樣的職缺即便更新日期，也不會再出現
 
@@ -16,3 +16,24 @@ https://ithelp.ithome.com.tw/articles/10321898
 • 可搜尋多個關鍵字
 
 • 匯出Excel
+
+------------------
+
+I noticed that on the 104 job site, it seems impossible to hide jobs that I have already seen or am not interested in applying for; I can only hide certain industries. This leads to repeatedly seeing the same job listings, making job searching quite inefficient. Therefore, I wrote this web crawler.
+
+Reference URL:
+https://ithelp.ithome.com.tw/articles/10321898
+
+In addition to the content of the URL, I also added:
+
+• Links to job vacancy websites.
+
+• Filters to exclude companies and job keywords I don't want to apply for.
+
+• The same job listing will not reappear, even if its posting date is updated.
+
+• Ability to crawl all pages on 104.
+
+• Capability to search for multiple keywords.
+
+• Export to Excel.
